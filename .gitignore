@@ -396,3 +396,11 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Vercel
+.vercel
+.env*.local
+.env
+.env.development
+.env.test
+.env.production
